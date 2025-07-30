@@ -3,6 +3,7 @@ from selenium.webdriver.common.by import By
 import time
 import math
 
+# Комментарий для проверки работы с ветками
 
 def calc(x):
     return str(math.log(abs(12 * math.sin(int(x)))))
